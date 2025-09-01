@@ -1,0 +1,2 @@
+# nova-submissions
+nova-miner
